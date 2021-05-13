@@ -1,4 +1,4 @@
-package com.github.sroddy.flutterstringencryptionexample
+package com.github.turkialawlqy.flutterstringencryptionexample
 
 import android.os.Bundle
 

@@ -1,4 +1,4 @@
-package com.github.sroddy.flutterstringencryption
+package com.github.turkialawlqy.flutterstringencryption
 
 import io.flutter.plugin.common.MethodChannel
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler

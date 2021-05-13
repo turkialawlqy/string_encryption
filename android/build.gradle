@@ -1,4 +1,4 @@
-group 'com.github.sroddy.flutterstringencryption'
+group 'com.github.turkialawlqy.flutterstringencryption'
 version '1.0-SNAPSHOT'
 
 buildscript {

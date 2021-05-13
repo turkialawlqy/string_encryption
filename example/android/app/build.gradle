@@ -29,7 +29,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.github.sroddy.flutterstringencryptionexample"
+        applicationId "com.github.turkialawlqy.flutterstringencryptionexample"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
