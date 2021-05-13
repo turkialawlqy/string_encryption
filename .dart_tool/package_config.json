@@ -47,10 +47,10 @@
       "name": "string_encryption",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "1.24"
+      "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-05-13T18:31:06.644626Z",
+  "generated": "2021-05-13T18:36:38.630540Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }
