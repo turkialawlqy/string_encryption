@@ -1,4 +1,4 @@
-## [1.0.2] - Add Plugin
+## [2.0.2] - Add Plugin
 
 ## [1.0.1] - Upgrade Flutter 2
 
