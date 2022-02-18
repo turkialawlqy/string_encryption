@@ -31,7 +31,7 @@ platform :ios, '9.0'
 ## Usage
 
 ```dart
-final cryptor = new PlatformStringCryptor();
+final cryptor = new StringEncryption();
 ```
 
 ## Generate A Secret Key
